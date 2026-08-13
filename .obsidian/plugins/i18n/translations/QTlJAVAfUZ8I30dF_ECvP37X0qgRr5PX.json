@@ -1,0 +1,338 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "obsidian-style-settings",
+        "version": "1.0.0",
+        "title": "Style Settings",
+        "description": "Style Settings Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.0.9",
+        "author": "ouroboros"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "none",
+                    "target": "none"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "Style settings configured by theme and plugin authors will show up here. You can also create your own configuration by creating a CSS snippet in your vault. ",
+                    "target": "主题和插件作者配置的样式设置将在此显示。您也可以通过在金库中创建 CSS 代码片段来创建自己的配置。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createDiv",
+                    "source": "theme-light style-settings-ref",
+                    "target": "theme-light style-settings-ref"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createDiv",
+                    "source": "theme-dark style-settings-ref",
+                    "target": "theme-dark style-settings-ref"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "input",
+                    "target": "input"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "label",
+                    "target": "label"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "small",
+                    "target": "small"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "strong",
+                    "target": "strong"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "div",
+                    "target": "div"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createEl",
+                    "source": "br",
+                    "target": "br"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error: Style Settings locale not found",
+                    "target": "错误：未找到样式设置的语言环境"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Style Settings | Failed to render section",
+                    "target": "样式设置 | 渲染部分失败"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Save",
+                    "target": "保存"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Import an entire or partial configuration. Warning: this may override existing settings",
+                    "target": "导入完整或部分配置。警告：这可能会覆盖现有设置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Import style setting",
+                    "target": "导入样式设置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Paste config here...",
+                    "target": "在此粘贴配置..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setPlaceholder",
+                    "source": "Search Style Settings...",
+                    "target": "搜索样式设置..."
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setText",
+                    "source": "Error importing style settings: config is empty",
+                    "target": "导入样式设置错误：配置为空"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Reset all settings to default",
+                    "target": "将所有设置重置为默认"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Export settings",
+                    "target": "导出设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "picker",
+                    "target": "选择器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Show style settings view",
+                    "target": "显示样式设置视图"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Style Settings",
+                    "target": "样式设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Copy to clipboard",
+                    "target": "复制到剪贴板"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Download",
+                    "target": "下载"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Error importing config",
+                    "target": "导入配置时出错"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Import from file",
+                    "target": "从文件导入"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Default (light): ",
+                    "target": "默认（浅色）："
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Default (dark): ",
+                    "target": "默认（深色）："
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "No style settings found",
+                    "target": "未找到样式设置"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Click here for details and examples.",
+                    "target": "点击此处查看详情和示例。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Import",
+                    "target": "导入"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Export",
+                    "target": "导出"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "setName(`Export settings for: ${this.section}`)",
+                    "target": "setName(`导出设置： ${this.section}`)"
+                },
+                {
+                    "source": "setName(\"Import style setting\")",
+                    "target": "setName(\"导入样式设置\")"
+                },
+                {
+                    "source": "setDesc(\"Import an entire or partial configuration. Warning: this may override existing settings\")",
+                    "target": "setDesc(\"导入完整或部分配置。警告：这可能会覆盖现有设置\")"
+                },
+                {
+                    "source": "setText(`Error importing style settings: ${p}`)",
+                    "target": "setText(`导入样式设置出错： ${p}`)"
+                },
+                {
+                    "source": "setText(\"Error importing style settings: config is empty\")",
+                    "target": "setText(\"导入样式设置出错：配置为空\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Paste config here...\")",
+                    "target": "setPlaceholder(\"在此粘贴配置...\")"
+                },
+                {
+                    "source": "error(`${de(\"Error:\")} ${t} ${de(\"missing default value\")}`)",
+                    "target": "error(`${de(\"错误：\")} ${t} ${de(\"缺少默认值\")}`)"
+                },
+                {
+                    "source": "error(`${de(\"Error:\")} ${t} ${de(\"missing default value, or value is not in a valid color format\")}`)",
+                    "target": "error(`${de(\"错误：\")} ${t} ${de(\"缺少默认值，或值不是有效的颜色格式\")}`)"
+                },
+                {
+                    "source": "error(`${de(\"Error:\")} ${t} ${de(\"missing default light value, or value is not in a valid color format\")}`)",
+                    "target": "error(`${de(\"错误：\")} ${t} ${de(\"缺少默认浅色值，或值不是有效的颜色格式\")}`)"
+                },
+                {
+                    "source": "error(`${de(\"Error:\")} ${t} ${de(\"missing default dark value, or value is not in a valid color format\")}`)",
+                    "target": "error(`${de(\"错误：\")} ${t} ${de(\"缺少默认深色值，或值不是有效的颜色格式\")}`)"
+                },
+                {
+                    "source": "setText(`${this.filterResultCount} Results`)",
+                    "target": "setText(`${this.filterResultCount} 结果`)"
+                },
+                {
+                    "source": "setTooltip(\"Reset all settings to default\")",
+                    "target": "setTooltip(\"将所有设置重置为默认\")"
+                },
+                {
+                    "source": "setTooltip(\"Export settings\")",
+                    "target": "setTooltip(\"导出设置\")"
+                },
+                {
+                    "source": "appendText(\"Style settings configured by theme and plugin authors will show up here. You can also create your own configuration by creating a CSS snippet in your vault. \")",
+                    "target": "appendText(\"由主题和插件作者配置的样式设置将在此显示。您也可以通过在库中创建 CSS 代码片段来自定义配置。 \")"
+                },
+                {
+                    "source": "setPlaceholder(\"Search Style Settings...\")",
+                    "target": "setPlaceholder(\"搜索样式设置...\")"
+                },
+                {
+                    "source": "error(\"Style Settings | Failed to render section\",p)}}}filter(){for(let t of this.settingsComponentTrees)t.filter(this.filterString)}clearFilter(){for(let t of this.settingsComponentTrees)t.clearFilter()}rerender(){this.cleanup(),this.display()}};var Oi=require(\"obsidian\")",
+                    "target": "error(\"样式设置 | 渲染部分失败\",p)}}}filter(){for(let t of this.settingsComponentTrees)t.filter(this.filterString)}clearFilter(){for(let t of this.settingsComponentTrees)t.clearFilter()}rerender(){this.cleanup(),this.display()}};var Oi=require(\"obsidian\")"
+                },
+                {
+                    "source": "name: \"+r)},E.autodetect.push({p:5,test:function(r){for(var s=[],o=arguments.length-1;o-- >0;)s[o]=arguments[o+1];if(!s.length&&zs(r)===\"",
+                    "target": "name: \"+r)},E.autodetect.push({p:5,test:function(r){for(var s=[],o=arguments.length-1;o-- >0;)s[o]=arguments[o+1];if(!s.length&&zs(r)===\""
+                },
+                {
+                    "source": "text:\"Copy to clipboard\"",
+                    "target": "text:\"复制到剪贴板\""
+                },
+                {
+                    "source": "text:\"Error importing config\"",
+                    "target": "text:\"导入配置错误\""
+                },
+                {
+                    "source": "text:\"Import from file\"",
+                    "target": "text:\"从文件导入\""
+                },
+                {
+                    "source": "innerText=`\n\t\t\tbody.css-settings-manager {\n\t\t\t\t${n.reduce((i,l)=>i+`",
+                    "target": "innerText=`\n\t\t\tbody.css-settings-manager {\n\t\t\t\t${n.reduce((i,l)=>i+`"
+                },
+                {
+                    "source": "text:`${de(\"Default:\")} `",
+                    "target": "text:`${de(\"Default:\")} `"
+                },
+                {
+                    "source": "text:\"Default (light): \"",
+                    "target": "text:\"默认（浅色）： \""
+                },
+                {
+                    "source": "text:\"Default (dark): \"",
+                    "target": "text:\"默认（深色）： \""
+                },
+                {
+                    "source": "text:`Error: ${i.name}`",
+                    "target": "text:`错误： ${i.name}`"
+                },
+                {
+                    "source": "text:\"No style settings found\"",
+                    "target": "text:\"未找到样式设置\""
+                },
+                {
+                    "source": "text:\"Click here for details and examples.\"",
+                    "target": "text:\"点击此处获取详情和示例。\""
+                },
+                {
+                    "source": "name:\"Show style settings view\"",
+                    "target": "name:\"显示样式设置视图\""
+                },
+                {
+                    "source": "name:\"Style Settings\"",
+                    "target": "name:\"样式设置\""
+                },
+                {
+                    "source": "name:`Toggle ${a.title}`",
+                    "target": "name:`切换 ${a.title}`"
+                }
+            ]
+        }
+    }
+}

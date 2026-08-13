@@ -1,0 +1,336 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "highlightr-plugin",
+        "version": "1.0.0",
+        "title": "Highlightr",
+        "description": "Highlightr Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.2.2",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "If you like this Plugin and are considering donating to support continued development, use the buttons below!",
+                    "target": "如果您喜欢此插件并考虑捐赠以支持持续开发，请使用下面的按钮！"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Highlightr unloaded",
+                    "target": "Highlightr 已卸载"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Choose between highlighting with inline CSS or CSS classes. Please note that there are pros and cons to both choices. Inline CSS will keep you from being reliant on external CSS files if you choose to export your notes. CSS classes are more flexible and easier to customize.",
+                    "target": "请在内联 CSS 或 CSS 类之间进行选择。请注意，两者都有优缺点。内联 CSS 可使您在导出笔记时无需依赖外部 CSS 文件。CSS 类更灵活且更易自定义。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Depending on your design aesthetic, you may want to customize the style of your highlights. Choose from an assortment of different highlighter styles by using the dropdown. Depending on your theme, this plugin's CSS may be overriden.",
+                    "target": "根据您的设计美学，您可能想自定义高亮样式。通过下拉菜单选择不同的高亮器样式。根据您的主题，此插件的 CSS 可能会被覆盖。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Create new highlight colors by providing a color name and using the color picker to set the hex code value. Don't forget to save the color before exiting the color picker. Drag and drop the highlight color to change the order for your highlighter component.",
+                    "target": "通过提供颜色名称并使用颜色拾取器设置十六进制代码值来创建新的高亮颜色。请在退出颜色拾取器前保存颜色。拖放高亮颜色以更改高亮器组件的顺序。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Choose highlight method",
+                    "target": "选择高亮方法"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Choose highlight style",
+                    "target": "选择高亮样式"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Choose highlight colors",
+                    "target": "选择高亮颜色"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Highlight",
+                    "target": "高亮"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTitle",
+                    "source": "Erase highlight",
+                    "target": "擦除高亮"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Save",
+                    "target": "保存"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "Remove",
+                    "target": "删除"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "This color already exists",
+                    "target": "此颜色已存在"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Highlighter hex code missing",
+                    "target": "高亮器十六进制代码缺失"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Highlighter name missing",
+                    "target": "高亮器名称缺失"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Highlighter values missing",
+                    "target": "高亮器数值缺失"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Focus must be in editor",
+                    "target": "焦点必须在编辑器"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "cls",
+                    "source": "HighlightrSettingsTabsContainer",
+                    "target": "HighlightrSettingsTabsContainer"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "id",
+                    "source": "unhighlight",
+                    "target": "取消高亮"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "filter",
+                    "target": "过滤"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "choose",
+                    "target": "选择"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "start",
+                    "target": "开始"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "clone",
+                    "target": "克隆"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "change",
+                    "target": "更改"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "unchoose",
+                    "target": "取消选择"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "add",
+                    "target": "添加"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "remove",
+                    "target": "删除"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "sort",
+                    "target": "排序"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "update",
+                    "target": "更新"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "end",
+                    "target": "结束"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open Highlightr",
+                    "target": "打开 Highlightr"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Remove highlight",
+                    "target": "删除高亮"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Created by ",
+                    "target": "由...创建 "
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Plugin Settings",
+                    "target": "插件设置"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "setName(\"Choose highlight method\")",
+                    "target": "setName(\"选择高亮方法\")"
+                },
+                {
+                    "source": "setDesc(`Choose between highlighting with inline CSS or CSS classes. Please note that there are pros and cons to both choices. Inline CSS will keep you from being reliant on external CSS files if you choose to export your notes. CSS classes are more flexible and easier to customize.`)",
+                    "target": "setDesc(`选择在线 CSS 或 CSS 类突出显示的方法。请注意，两种选择都有优缺点。Inline CSS 将使您不再依赖外部 CSS 文件，如果您选择导出笔记。CSS 类更灵活且更易于自定义。`)"
+                },
+                {
+                    "source": "setName(\"Choose highlight style\")",
+                    "target": "setName(\"选择高亮样式\")"
+                },
+                {
+                    "source": "setDesc(`Depending on your design aesthetic, you may want to customize the style of your highlights. Choose from an assortment of different highlighter styles by using the dropdown. Depending on your theme, this plugin's CSS may be overriden.`)",
+                    "target": "setDesc(`取决于您的设计美学，您可能需要自定义高亮样式。通过下拉菜单选择多种不同的高亮器样式。取决于您的主题，此插件的 CSS 可能会被覆盖。`)"
+                },
+                {
+                    "source": "setName(\"Choose highlight colors\")",
+                    "target": "setName(\"选择高亮颜色\")"
+                },
+                {
+                    "source": "setDesc(`Create new highlight colors by providing a color name and using the color picker to set the hex code value. Don't forget to save the color before exiting the color picker. Drag and drop the highlight color to change the order for your highlighter component.`)",
+                    "target": "setDesc(`通过提供颜色名称并使用颜色拾取器设置十六进制代码值来创建新的高亮颜色。请在退出颜色拾取器前保存颜色。拖放高亮颜色以更改高亮器组件的顺序。`)"
+                },
+                {
+                    "source": "setPlaceholder(\"Color name\")",
+                    "target": "setPlaceholder(\"颜色名称\")"
+                },
+                {
+                    "source": "setPlaceholder(\"Color hex code\")",
+                    "target": "setPlaceholder(\"颜色十六进制代码\")"
+                },
+                {
+                    "source": "Notice(\"This color already exists\")",
+                    "target": "Notice(\"此颜色已存在\")"
+                },
+                {
+                    "source": "Notice(\"Highlighter hex code missing\")",
+                    "target": "Notice(\"高亮器十六进制代码缺失\")"
+                },
+                {
+                    "source": "Notice(\"Highlighter name missing\")",
+                    "target": "Notice(\"Highlighter 名称缺失\")"
+                },
+                {
+                    "source": "Notice(\"Highlighter values missing\")",
+                    "target": "Notice(\"Highlighter 值缺失\")"
+                },
+                {
+                    "source": "Notice(`${highlighter} highlight deleted`)",
+                    "target": "Notice(`${highlighter} highlight deleted`)"
+                },
+                {
+                    "source": "appendText(\"If you like this Plugin and are considering donating to support continued development, use the buttons below!\")",
+                    "target": "appendText(\"如果您喜欢此插件并考虑捐赠以支持持续开发，请使用下面的按钮!\")"
+                },
+                {
+                    "source": "Notice(\"Focus must be in editor\")",
+                    "target": "Notice(\"Focus 必须在编辑器中\")"
+                },
+                {
+                    "source": "setTitle(\"Erase highlight\")",
+                    "target": "setTitle(\"擦除高亮\")"
+                },
+                {
+                    "source": "log(`Highlightr v${this.manifest.version} loaded`)",
+                    "target": "log(`Highlightr v${this.manifest.version} 已加载`)"
+                },
+                {
+                    "source": "log(\"Highlightr unloaded\")",
+                    "target": "log(\"Highlightr 已卸载\")"
+                },
+                {
+                    "source": "name: 'choose'",
+                    "target": "name: '选择'"
+                },
+                {
+                    "source": "name: 'start'",
+                    "target": "name: '开始'"
+                },
+                {
+                    "source": "name: 'clone'",
+                    "target": "name: '克隆'"
+                },
+                {
+                    "source": "name: 'change'",
+                    "target": "name: '更改'"
+                },
+                {
+                    "source": "name: 'unchoose'",
+                    "target": "name: '取消选择'"
+                },
+                {
+                    "source": "name: 'add'",
+                    "target": "name: '添加'"
+                },
+                {
+                    "source": "name: 'remove'",
+                    "target": "name: '删除'"
+                },
+                {
+                    "source": "name: 'sort'",
+                    "target": "name: '排序'"
+                },
+                {
+                    "source": "name: 'update'",
+                    "target": "name: '更新'"
+                },
+                {
+                    "source": "name: 'end'",
+                    "target": "name: '结束'"
+                }
+            ]
+        }
+    }
+}

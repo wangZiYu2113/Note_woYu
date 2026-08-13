@@ -1,0 +1,59 @@
+{
+    "plugins": {
+        "obsidian42-brat": {
+            "id": "obsidian42-brat",
+            "isApplied": true,
+            "pluginVersion": "2.2.0",
+            "translationVersion": "2.2.0"
+        },
+        "calendar": {
+            "id": "calendar",
+            "isApplied": true,
+            "pluginVersion": "1.5.10",
+            "translationVersion": "1.0.0"
+        },
+        "easy-typing-obsidian": {
+            "id": "easy-typing-obsidian",
+            "isApplied": true,
+            "pluginVersion": "6.0.9",
+            "translationVersion": "1.0.0"
+        },
+        "obsidian-git": {
+            "id": "obsidian-git",
+            "isApplied": true,
+            "pluginVersion": "2.38.6",
+            "translationVersion": "1.0.0"
+        },
+        "highlightr-plugin": {
+            "id": "highlightr-plugin",
+            "isApplied": true,
+            "pluginVersion": "1.2.2",
+            "translationVersion": "1.0.0"
+        },
+        "obsidian-minimal-settings": {
+            "id": "obsidian-minimal-settings",
+            "isApplied": true,
+            "pluginVersion": "8.2.3",
+            "translationVersion": "1.0.0"
+        },
+        "pdf-plus": {
+            "id": "pdf-plus",
+            "isApplied": true,
+            "pluginVersion": "0.40.31",
+            "translationVersion": "1.0.0"
+        },
+        "quickadd": {
+            "id": "quickadd",
+            "isApplied": true,
+            "pluginVersion": "2.12.3",
+            "translationVersion": "2.0.0"
+        },
+        "obsidian-style-settings": {
+            "id": "obsidian-style-settings",
+            "isApplied": true,
+            "pluginVersion": "1.0.9",
+            "translationVersion": "1.0.0"
+        }
+    },
+    "themes": {}
+}

@@ -1,0 +1,7 @@
+# Obsidian 工作区状态（频繁变化，随 Obsidian 运行而被锁定，无需同步）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 系统文件
+Thumbs.db
+.DS_Store
