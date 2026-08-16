@@ -397,10 +397,11 @@
     "Ouroboros-XX/obsidian-plugin-translations",
     "ZergoWL/obsidian-i18n-resources",
     "yunrr/obsidian-i18n-resources",
-    "yubolun/obsidian-i18n-resources"
+    "yubolun/obsidian-i18n-resources",
+    "yunrr/obsidian-translations"
   ],
   "defaultCloudRepo": "",
-  "managerTab": "plugins",
+  "managerTab": "credits",
   "pluginViewMode": "list",
   "themeViewMode": "grid",
   "autoSave": true,
