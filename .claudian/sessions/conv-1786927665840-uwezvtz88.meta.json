@@ -4,7 +4,7 @@
   "title": "解析 /model 命令",
   "titleGenerationStatus": "success",
   "createdAt": 1786927665842,
-  "lastActivityAt": 1786927740769,
+  "lastActivityAt": 1786927806577,
   "sessionId": "3da7f196-213e-4a9d-9167-c25abaaf6458",
   "selectedModel": "opus",
   "providerState": {
@@ -13,11 +13,11 @@
   "currentNote": "数学建模/数模论文写作.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 0,
+    "inputTokens": 1389,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 0,
+    "cacheReadInputTokens": 30848,
     "contextWindow": 1000000,
-    "contextTokens": 0,
-    "percentage": 0
+    "contextTokens": 32237,
+    "percentage": 3
   }
 }

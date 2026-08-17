@@ -72,7 +72,8 @@
       "canonicalText": "审查当前笔记‘",
       "images": [],
       "contentDigest": "55079eccd17975176feb75dbb6b65edc60eaf3b6e6d94e115b0a5787ab708bd1",
-      "providerUserMessageId": "c776b66e-d2d3-4355-9857-c79671a7d7f0"
+      "providerUserMessageId": "c776b66e-d2d3-4355-9857-c79671a7d7f0",
+      "providerAssistantMessageId": "0a7bcd58-8b36-4b80-8f99-981193fd61f7"
     }
   ]
 }
