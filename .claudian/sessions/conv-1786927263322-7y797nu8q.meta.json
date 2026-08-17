@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786927263322-7y797nu8q",
+  "providerId": "claude",
+  "title": "审查当前笔记",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786927263324,
+  "lastActivityAt": 1786927442102,
+  "sessionId": "0f96a6c5-fe62-43a5-bed4-c85dbbc04ad1",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "0f96a6c5-fe62-43a5-bed4-c85dbbc04ad1"
+  },
+  "currentNote": "数学建模/数模论文写作.md",
+  "isPinned": false,
+  "isArchived": true,
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

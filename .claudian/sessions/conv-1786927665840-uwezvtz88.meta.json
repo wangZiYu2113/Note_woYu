@@ -1,0 +1,23 @@
+{
+  "id": "conv-1786927665840-uwezvtz88",
+  "providerId": "claude",
+  "title": "解析 /model 命令",
+  "titleGenerationStatus": "success",
+  "createdAt": 1786927665842,
+  "lastActivityAt": 1786927740769,
+  "sessionId": "3da7f196-213e-4a9d-9167-c25abaaf6458",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "3da7f196-213e-4a9d-9167-c25abaaf6458"
+  },
+  "currentNote": "数学建模/数模论文写作.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

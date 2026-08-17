@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786927263322-7y797nu8q",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786927263501-xvf2b2o",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786927263315-mzyhtr9",
+      "timestamp": 1786927263315,
+      "rawDisplayText": "审查当前笔记",
+      "canonicalText": "审查当前笔记",
+      "context": {
+        "currentNote": {
+          "path": "数学建模/数模论文写作.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "e6541b02dd7851c41eb89ece4ab578576613b7c28416ecc0034aa2a45e1b5f8f",
+      "providerUserMessageId": "abe19422-98e7-497e-b145-0238590b8811",
+      "providerAssistantMessageId": "cea13f9c-1353-48dd-9b6c-75ec475825fa"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786927383872-puzcv4t",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786927383867-8bjo3f7",
+      "timestamp": 1786927383867,
+      "rawDisplayText": "当前的模型是？",
+      "canonicalText": "当前的模型是？",
+      "images": [],
+      "contentDigest": "028eefc59c9a91d23685fd3d7723dc8ba70f4bfe9b4e3081b327da1d61f5f830",
+      "providerUserMessageId": "65d9ffd2-9134-441e-9ac2-76be41511fe4",
+      "providerAssistantMessageId": "54f74c33-d418-4319-989e-dfa1609ceac6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786927419093-lnsjktk",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786927419090-0e3ov6j",
+      "timestamp": 1786927419090,
+      "rawDisplayText": "为什么可以免费使用？",
+      "canonicalText": "为什么可以免费使用？",
+      "images": [],
+      "contentDigest": "dab1445b6f65bc8a5ab01be9d1661f170973e35ce90b940d62999561d82aa719",
+      "providerUserMessageId": "2ff71cb3-b08e-41ec-b363-27f973d7f475",
+      "providerAssistantMessageId": "2d9cedf9-4e44-4aac-82f9-0e7b23babfd0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786927442046-nwa0hdz",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786927442042-6qdwvfe",
+      "timestamp": 1786927442042,
+      "rawDisplayText": "/model",
+      "canonicalText": "/model",
+      "images": [],
+      "contentDigest": "c9fa5cfc9c6bcb8b82fe3e0a7e9474e2c4149f80b740657a840cc2f7e5c74778",
+      "providerUserMessageId": "4dde99d7-49c3-4667-9029-e661c056448e",
+      "providerAssistantMessageId": "15a8ed0a-a7e4-4369-b3ad-0c3edd3dc40f"
+    }
+  ]
+}

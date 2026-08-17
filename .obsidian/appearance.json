@@ -2,5 +2,6 @@
   "accentColor": "",
   "theme": "obsidian",
   "showRibbon": true,
-  "cssTheme": "Things"
+  "cssTheme": "Things",
+  "showViewHeader": true
 }

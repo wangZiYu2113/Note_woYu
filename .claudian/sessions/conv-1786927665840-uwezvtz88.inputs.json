@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786927665840-uwezvtz88",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786927665886-sdvtk0a",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1786927665835-zm61v9n",
+      "timestamp": 1786927665835,
+      "rawDisplayText": "/model",
+      "canonicalText": "/model",
+      "context": {
+        "currentNote": {
+          "path": "数学建模/数模论文写作.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "c9fa5cfc9c6bcb8b82fe3e0a7e9474e2c4149f80b740657a840cc2f7e5c74778",
+      "providerUserMessageId": "9a401301-deb8-4d0d-8049-a9225059e3c3",
+      "providerAssistantMessageId": "64604522-31b3-40bc-989f-5e626b3cf30d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786927697019-w259s25",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786927697017-i5q51c4",
+      "timestamp": 1786927697017,
+      "rawDisplayText": "/model deepseek-v4-flash",
+      "canonicalText": "/model deepseek-v4-flash",
+      "images": [],
+      "contentDigest": "bd9a7f4c4a6110b7a72d02ac2ca8fe022ac310172ebc4026850c2af654e4bfd2",
+      "providerUserMessageId": "ed762a78-236b-4a7a-86ba-70127d26618d",
+      "providerAssistantMessageId": "6f9f86de-37ef-4afc-89be-2cd61466966d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786927722372-aa8ef45",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786927722369-jixyptc",
+      "timestamp": 1786927722369,
+      "rawDisplayText": "/claude-api",
+      "canonicalText": "/claude-api",
+      "images": [],
+      "contentDigest": "3f06a2ecef10a36d85e77795d145b53354e335a46f5cb5127d94c392533c9436",
+      "providerUserMessageId": "81945d69-a430-4ea8-8d9a-a90ada9a98af"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786927732012-5vzr8kc",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1786927732009-p4um2d4",
+      "timestamp": 1786927732010,
+      "rawDisplayText": "/defaut",
+      "canonicalText": "/defaut",
+      "images": [],
+      "contentDigest": "8462b6bc20cae48cbcdeecdc268a67d5c9fc70631e7476a6eb4b2e9d363e31a3",
+      "providerUserMessageId": "6412c9ab-7eb9-4f44-878b-4b6268c16f2f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786927740772-334h3q7",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1786927740769-a1nhnko",
+      "timestamp": 1786927740769,
+      "rawDisplayText": "审查当前笔记‘",
+      "canonicalText": "审查当前笔记‘",
+      "images": [],
+      "contentDigest": "55079eccd17975176feb75dbb6b65edc60eaf3b6e6d94e115b0a5787ab708bd1",
+      "providerUserMessageId": "c776b66e-d2d3-4355-9857-c79671a7d7f0"
+    }
+  ]
+}
