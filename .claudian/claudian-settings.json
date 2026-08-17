@@ -52,7 +52,7 @@
       "enableUltraEffort": false,
       "reasoningSummary": "detailed",
       "environmentVariables": "",
-      "environmentHash": "",
+      "environmentHash": "runtime-input:v1:ed54f4f5238abeec7f65a5da1e468c9a639e157a7d1c7753b53f54ba1196e8a0",
       "catalogTimestamp": 0,
       "catalogFingerprint": "",
       "installationMethodsByHost": {},
@@ -98,15 +98,18 @@
   "settingsProvider": "claude",
   "lastSelectedChatModel": null,
   "savedProviderModel": {
-    "claude": "opus"
+    "claude": "opus",
+    "codex": "opus"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "high",
+    "codex": "high"
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {
-    "claude": "yolo"
+    "claude": "yolo",
+    "codex": "yolo"
   },
   "pendingProviderSessionInvalidations": {},
   "lastCustomModel": "",
