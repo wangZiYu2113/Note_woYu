@@ -16,7 +16,7 @@
   "loggingPath": "BRAT-log",
   "loggingVerboseEnabled": false,
   "debuggingMode": false,
-  "notificationsEnabled": true,
+  "notificationsEnabled": false,
   "globalTokenName": "",
   "personalAccessToken": "",
   "selectLatestPluginVersionByDefault": false,
