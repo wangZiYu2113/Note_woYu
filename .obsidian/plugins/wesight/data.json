@@ -10,7 +10,7 @@
   },
   "configuredPaths": {
     "claude": "",
-    "codex": "",
+    "codex": "C:/Users/wangz/AppData/Local/OpenAI/Codex/bin/8aaf1547b825b104/codex.exe",
     "opencode": ""
   },
   "providerProfileByAgent": {
@@ -23,7 +23,7 @@
     "codex": "",
     "opencode": ""
   },
-  "sharedEnvironmentVariables": "",
+  "sharedEnvironmentVariables": "HTTP_PROXY=http://127.0.0.1:7890\nHTTPS_PROXY=http://127.0.0.1:7890",
   "systemPrompt": "",
   "planModeDefault": false,
   "maxContextFileChars": 40000,
