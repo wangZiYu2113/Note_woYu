@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "sourcePath": "通信/USB/USB 技术.md",
+  "contentHash": "f01dd32832153ceb0b83a0abeb79e916ab67b0062db98e95f0ab236a6ac62673",
+  "updatedAt": "2026-10-04T03:11:27.174Z",
+  "copy": {
+    "title": "USB 技术",
+    "body": "1.USB 简介\n\nUSB 技术是微软与英特尔共同成立的 USB-IF 组织共同认证的 \n同时英特尔与苹果共同制定了雷电系列协议（Thunderbolt）\n\n雷电协议\n雷电 1/2 MiniDP 接口\n雷电 3/4/5 统一使用 type-C\n\nUSB-IF 协议\nPasted image 20260831162018\n命名：\n  已取消 3.0 系列命名规则，直接以传输速度命名接口；2.0 系列不变；\n  第一代 5 Gbps 速率：USB 3.0  = USB 3.1 Gen1 = USB 3.2 Gen1 =  USB 5Gbps\n  第二代 10 Gbps 速率： USB 3.1 = USB 3.1 Gen2 = USB 3.2 Gen2 = USB 10Gbps\n  第三代 20 Gbps 速率 ：USB 3.2 = USB 3.2 Gen 2 x 2 = USB 20 Gbps\n  4.0 系列第一代最高 40 Gbps 速率：USB 4.0 v1 =  USB 40 Gbps\n  4.0 系列第二代最高 80 Gbps 速率：USB 4.0 v2 = USB 80 Gbps\n带宽 不等于 速度 ！图中的速度应更正为带宽；480 Mbps 理论速度为 60 MB/s ，实际为 42 MB/s \n发展历程\nUSB‑IF（USB 标准组织）吸收雷电 3 的技术，做成公开标准 USB 4.0。由此出现了 USB 4.0 第一代 40 Gbps \n雷电 4 实在 USB 4.0v1 的基础上做的强制认证版本，即雷电 4 相对于雷电 3 并没有带宽上的提升\n后来出现 USB 4.0 第二代，雷电 5 又是在其基础上做的强制认证和升级 （80 Gbps）\n强制认证\nPasted image 20260831171642\n雷电 4/5 系列 USB 强制要求有如下功能 （部分 3.0 不支持 详情看上表）\n必须支持固定双向带宽\n必须支持 PCIe 显卡外接\n必须支持 PD 和反向供电\n必须支持 DP 视频隧道\nUSB线缆\n必须支持 DMA 保护\n必须支持睡眠唤醒（3.0…",
+    "tags": [
+      "USB简介",
+      "PCB注意",
+      "硬件接口",
+      "USB芯片分类"
+    ]
+  },
+  "style": {
+    "categoryId": "infographic",
+    "styleId": "steps"
+  },
+  "recommendation": {
+    "categoryId": "infographic",
+    "styleId": "method",
+    "confidence": 97,
+    "reasons": [
+      "文章按协议、PCB、接口、芯片和引脚分模块展开，适合用方法拆解式信息图建立 USB 知识框架。",
+      "文案包含命名对应关系、接口规格差异、认证要求和引脚功能表，适合通过分组、对照表和引脚标注降低阅读负担。",
+      "内容属于技术知识解析，没有连续操作步骤，采用模块化图解比步骤清单更贴合原文结构。"
+    ],
+    "alternatives": [
+      {
+        "categoryId": "typography",
+        "styleId": "tech",
+        "confidence": 83
+      }
+    ],
+    "source": "engine"
+  },
+  "customStylePrompt": "",
+  "imageRatio": "3:4",
+  "imageReferences": [],
+  "pageCount": 6,
+  "pageContents": [
+    {
+      "pageNumber": 1,
+      "label": "封面",
+      "text": "USB 技术",
+      "textSource": "article"
+    },
+    {
+      "pageNumber": 2,
+      "label": "1.USB 简介",
+      "text": "1.USB 简介",
+      "textSource": "article"
+    },
+    {
+      "pageNumber": 3,
+      "label": "USB 技术是微软与英特",
+      "text": "USB 技术是微软与英特尔共同成立的 USB-IF 组织共同认证的 \n同时英特尔与苹果共同制定了雷电系列协议（Thunderbolt）",
+      "textSource": "article"
+    },
+    {
+      "pageNumber": 4,
+      "label": "雷电协议",
+      "text": "雷电协议\n雷电 1/2 MiniDP 接口\n雷电 3/4/5 统一使用 type-C",
+      "textSource": "article"
+    },
+    {
+      "pageNumber": 5,
+      "label": "USB-IF 协议",
+      "text": "USB-IF 协议\nPasted image 20260831162018\n命名：\n 已取消 3.0 系列命名规则，直接以传输速度命名接口；2.0 系列不变；\n 第一代 5 Gbps 速率：USB 3",
+      "textSource": "article"
+    },
+    {
+      "pageNumber": 6,
+      "label": "结尾",
+      "text": "做的强制认证和升级 （80 Gbps）\n强制认证\nPasted image 20260831171642\n雷电 4/5 系列 USB 强制要求有如下功能 （部分 3.0 不支持 详情看上表）\n必须支持",
+      "textSource": "article"
+    }
+  ],
+  "pages": [],
+  "quickTransform": {
+    "targets": [
+      "jike-post"
+    ],
+    "targetsExplicit": true,
+    "copyMode": "platform",
+    "selectedImageIds": [
+      "article:d36df5c982151d91b7266fa6f1f10476fee5cf08afa6e5c517fe39962314b5ad",
+      "article:963a7327e71853cdc2b21507d94e52ae8f259eae5e8c860d2c0daf11e378912b",
+      "article:cf729d6fb87d034b99ac420adb071dc24197571ced286f64f4798b974f37123d"
+    ],
+    "previewPlatform": "jike-post"
+  }
+}
