@@ -1,0 +1,38 @@
+{
+  "memberAiModel": "",
+  "memberAiConsentUserId": "",
+  "defaultAgentId": "codex",
+  "lastNotifiedUpdateVersion": "",
+  "configSources": {
+    "claude": "wesightManaged",
+    "codex": "localCli",
+    "opencode": "localCli"
+  },
+  "configuredPaths": {
+    "claude": "",
+    "codex": "",
+    "opencode": ""
+  },
+  "providerProfileByAgent": {
+    "claude": "",
+    "codex": "",
+    "opencode": ""
+  },
+  "localModelByAgent": {
+    "claude": "",
+    "codex": "",
+    "opencode": ""
+  },
+  "sharedEnvironmentVariables": "",
+  "systemPrompt": "",
+  "planModeDefault": false,
+  "maxContextFileChars": 40000,
+  "feishuFolderToken": "",
+  "wechatThemeId": "canghe-style-tes",
+  "wechatCustomThemeName": "",
+  "wechatCustomThemeDescription": "",
+  "multiPublishPlatforms": [
+    "zhihu"
+  ],
+  "multiPublishPairing": null
+}

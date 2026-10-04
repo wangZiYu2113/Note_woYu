@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "conversations": [
+    {
+      "id": "conv_mut7safo_vgccdqc7",
+      "title": "111",
+      "agentId": "codex",
+      "createdAt": 1791081676500,
+      "updatedAt": 1791081701267,
+      "messages": [
+        {
+          "id": "msg_mut7stjg_0fdm9lxw",
+          "role": "user",
+          "content": "111",
+          "createdAt": 1791081701260,
+          "agentId": "codex"
+        },
+        {
+          "id": "msg_mut7stjh_3wcihi4f",
+          "role": "error",
+          "content": "\nCodex is not installed.\ncodex was not found.",
+          "createdAt": 1791081701261,
+          "agentId": "codex",
+          "metadata": {
+            "process": [],
+            "knowledgeBased": false,
+            "durationMs": 5
+          }
+        }
+      ],
+      "mode": "chat"
+    }
+  ]
+}
