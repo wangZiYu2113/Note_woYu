@@ -2,7 +2,7 @@
   "memberAiModel": "",
   "memberAiConsentUserId": "",
   "defaultAgentId": "codex",
-  "lastNotifiedUpdateVersion": "",
+  "lastNotifiedUpdateVersion": "1.4.0",
   "configSources": {
     "claude": "wesightManaged",
     "codex": "localCli",
